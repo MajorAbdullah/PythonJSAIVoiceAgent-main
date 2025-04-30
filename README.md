@@ -117,4 +117,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 *   **Name:** Syed Abdullah Shah
 *   **Email:** [sa.abdullahshah.2001@gmail.com](mailto:sa.abdullahshah.2001@gmail.com)
-*   **LinkedIn:** [Syed Abdullah Shah](https://www.linkedin.com/in/syed-abdullah-shah-b4a6a8211/)
+*   **LinkedIn:** [Syed Abdullah Shah](www.linkedin.com/in/syed-abdullah-shah-4018a5176)
